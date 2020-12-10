@@ -1,0 +1,3297 @@
+map[bright chartreuse bag:true bright crimson bag:true bright gold bag:true bright green bag:true bright magenta bag:true bright tan bag:true bright tomato bag:true bright yellow bag:true clear beige bag:true clear blue bag:true clear chartreuse bag:true clear gray bag:true clear indigo bag:true clear lavender bag:true clear lime bag:true clear magenta bag:true clear plum bag:true clear salmon bag:true clear teal bag:true clear tomato bag:true dark indigo bag:true dark lime bag:true dark magenta bag:true dark plum bag:true dark purple bag:true dark salmon bag:true dark silver bag:true dark teal bag:true dark tomato bag:true dim chartreuse bag:true dim coral bag:true dim crimson bag:true dim gold bag:true dim maroon bag:true dim orange bag:true dim white bag:true dotted beige bag:true dotted brown bag:true dotted coral bag:true dotted crimson bag:true dotted fuchsia bag:true dotted indigo bag:true dotted lime bag:true dotted magenta bag:true dotted olive bag:true dotted plum bag:true dotted purple bag:true dotted red bag:true dotted silver bag:true dotted teal bag:true dotted tomato bag:true drab bronze bag:true drab brown bag:true drab crimson bag:true drab gold bag:true drab lime bag:true drab salmon bag:true drab tan bag:true drab turquoise bag:true drab violet bag:true drab white bag:true dull black bag:true dull chartreuse bag:true dull coral bag:true dull cyan bag:true dull gray bag:true dull lavender bag:true dull magenta bag:true dull maroon bag:true dull olive bag:true dull purple bag:true dull salmon bag:true dull violet bag:true faded brown bag:true faded coral bag:true faded gray bag:true faded green bag:true faded purple bag:true faded red bag:true faded salmon bag:true faded silver bag:true faded teal bag:true faded yellow bag:true light black bag:true light crimson bag:true light fuchsia bag:true light green bag:true light magenta bag:true light purple bag:true light red bag:true light silver bag:true light tomato bag:true light turquoise bag:true mirrored black bag:true mirrored brown bag:true mirrored cyan bag:true mirrored lavender bag:true mirrored lime bag:true mirrored plum bag:true mirrored teal bag:true mirrored violet bag:true mirrored yellow bag:true muted beige bag:true muted black bag:true muted blue bag:true muted bronze bag:true muted chartreuse bag:true muted coral bag:true muted cyan bag:true muted fuchsia bag:true muted indigo bag:true muted plum bag:true muted red bag:true muted salmon bag:true muted turquoise bag:true pale aqua bag:true pale beige bag:true pale blue bag:true pale chartreuse bag:true pale cyan bag:true pale fuchsia bag:true pale gold bag:true pale gray bag:true pale green bag:true pale indigo bag:true pale lavender bag:true pale orange bag:true pale white bag:true pale yellow bag:true plaid brown bag:true plaid coral bag:true plaid crimson bag:true plaid gold bag:true plaid green bag:true plaid indigo bag:true plaid lime bag:true plaid magenta bag:true plaid maroon bag:true plaid plum bag:true plaid red bag:true plaid salmon bag:true plaid silver bag:true plaid violet bag:true plaid yellow bag:true posh aqua bag:true posh beige bag:true posh bronze bag:true posh coral bag:true posh gold bag:true posh gray bag:true posh indigo bag:true posh lavender bag:true posh maroon bag:true posh olive bag:true posh orange bag:true posh tan bag:true posh turquoise bag:true shiny black bag:true shiny brown bag:true shiny chartreuse bag:true shiny crimson bag:true shiny cyan bag:true shiny gold bag:true shiny gray bag:true shiny indigo bag:true shiny lime bag:true shiny magenta bag:true shiny purple bag:true shiny silver bag:true shiny tan bag:true shiny violet bag:true striped beige bag:true striped black bag:true striped chartreuse bag:true striped coral bag:true striped crimson bag:true striped magenta bag:true striped olive bag:true striped plum bag:true striped silver bag:true striped teal bag:true striped tomato bag:true striped turquoise bag:true vibrant coral bag:true vibrant crimson bag:true vibrant cyan bag:true vibrant gray bag:true vibrant indigo bag:true vibrant lime bag:true vibrant purple bag:true vibrant silver bag:true vibrant tan bag:true vibrant tomato bag:true vibrant violet bag:true vibrant yellow bag:true wavy beige bag:true wavy black bag:true wavy bronze bag:true wavy coral bag:true wavy crimson bag:true wavy indigo bag:true wavy lavender bag:true wavy lime bag:true wavy olive bag:true wavy orange bag:true wavy silver bag:true wavy teal bag:true wavy white bag:true wavy yellow bag:true]
+208
+dull plum bag = [
+	 striped fuchsia bag ( 4 )
+]
+
+vibrant purple bag = [
+	 dark brown bag ( 4 )
+	 clear violet bag ( 3 )
+	 wavy black bag ( 1 )
+	 faded fuchsia bag ( 2 )
+]
+
+striped gold bag = [
+	 dull plum bag ( 1 )
+	 dark crimson bag ( 2 )
+	 bright lime bag ( 4 )
+	 vibrant teal bag ( 2 )
+]
+
+striped fuchsia bag = [
+	 vibrant bronze bag ( 1 )
+	 shiny lavender bag ( 3 )
+]
+
+vibrant brown bag = [
+	 striped gray bag ( 5 )
+	 bright turquoise bag ( 1 )
+]
+
+dark magenta bag = [
+	 dull salmon bag ( 5 )
+	 drab cyan bag ( 1 )
+	 dotted maroon bag ( 1 )
+	 dim tomato bag ( 1 )
+]
+
+drab blue bag = [
+	 drab silver bag ( 4 )
+	 bright plum bag ( 4 )
+]
+
+posh aqua bag = [
+	 muted tan bag ( 4 )
+	 faded yellow bag ( 2 )
+]
+
+pale lime bag = [
+	 drab coral bag ( 4 )
+	 vibrant chartreuse bag ( 3 )
+	 posh crimson bag ( 4 )
+]
+
+muted cyan bag = [
+	 shiny tan bag ( 2 )
+	 bright aqua bag ( 1 )
+	 dotted lavender bag ( 4 )
+	 vibrant crimson bag ( 3 )
+]
+
+dull fuchsia bag = [
+	 posh red bag ( 3 )
+	 dark coral bag ( 4 )
+	 dark aqua bag ( 2 )
+]
+
+drab green bag = [
+	 clear aqua bag ( 1 )
+	 light plum bag ( 4 )
+]
+
+shiny blue bag = [
+	 posh lime bag ( 1 )
+]
+
+shiny white bag = [
+	 dull beige bag ( 5 )
+]
+
+faded fuchsia bag = [
+	 striped fuchsia bag ( 2 )
+]
+
+faded olive bag = [
+	 faded fuchsia bag ( 3 )
+	 dotted maroon bag ( 3 )
+	 wavy red bag ( 5 )
+	 plaid chartreuse bag ( 4 )
+]
+
+striped coral bag = [
+	 shiny fuchsia bag ( 4 )
+	 plaid brown bag ( 1 )
+	 bright turquoise bag ( 2 )
+	 vibrant blue bag ( 1 )
+]
+
+light lavender bag = [
+	 dark cyan bag ( 2 )
+]
+
+striped violet bag = [
+	 drab teal bag ( 5 )
+]
+
+posh coral bag = [
+	 shiny gold bag ( 1 )
+	 dim red bag ( 4 )
+	 dull aqua bag ( 5 )
+]
+
+muted coral bag = [
+	 dim maroon bag ( 4 )
+	 drab lavender bag ( 5 )
+	 drab purple bag ( 5 )
+]
+
+posh magenta bag = [
+	 vibrant red bag ( 2 )
+	 muted gray bag ( 4 )
+	 vibrant maroon bag ( 2 )
+]
+
+dim fuchsia bag = [
+	 light blue bag ( 3 )
+	 muted yellow bag ( 3 )
+]
+
+bright tomato bag = [
+	 drab purple bag ( 5 )
+	 shiny black bag ( 1 )
+	 wavy turquoise bag ( 4 )
+]
+
+mirrored gold bag = [
+	 wavy gold bag ( 2 )
+	 muted gray bag ( 4 )
+	 drab olive bag ( 5 )
+]
+
+wavy crimson bag = [
+	 vibrant gold bag ( 3 )
+	 drab magenta bag ( 3 )
+	 dull salmon bag ( 3 )
+]
+
+muted violet bag = [
+	 faded tomato bag ( 1 )
+]
+
+mirrored yellow bag = [
+	 clear lime bag ( 3 )
+]
+
+dark gray bag = [
+	 muted teal bag ( 3 )
+	 clear violet bag ( 1 )
+	 bright cyan bag ( 5 )
+]
+
+mirrored silver bag = [
+	 vibrant maroon bag ( 4 )
+]
+
+mirrored purple bag = [
+	 drab silver bag ( 4 )
+	 wavy aqua bag ( 1 )
+	 shiny teal bag ( 1 )
+]
+
+light turquoise bag = [
+	 bright tan bag ( 2 )
+	 muted chartreuse bag ( 2 )
+]
+
+drab orange bag = [
+	 mirrored green bag ( 5 )
+]
+
+light green bag = [
+	 dark plum bag ( 1 )
+	 dull olive bag ( 5 )
+	 shiny lavender bag ( 4 )
+]
+
+striped beige bag = [
+	 clear salmon bag ( 4 )
+]
+
+dark red bag = [
+	 drab magenta bag ( 5 )
+	 bright lime bag ( 3 )
+]
+
+wavy gray bag = [
+	 dark aqua bag ( 3 )
+]
+
+bright yellow bag = [
+	 clear yellow bag ( 1 )
+	 muted indigo bag ( 3 )
+]
+
+pale violet bag = [
+	 faded violet bag ( 5 )
+]
+
+pale purple bag = [
+	 dim beige bag ( 5 )
+	 shiny tomato bag ( 5 )
+	 mirrored olive bag ( 3 )
+	 muted lavender bag ( 5 )
+]
+
+dim violet bag = [
+	 posh red bag ( 1 )
+	 plaid tan bag ( 5 )
+]
+
+drab black bag = [
+	 dark beige bag ( 5 )
+	 mirrored olive bag ( 3 )
+	 faded turquoise bag ( 3 )
+]
+
+dotted coral bag = [
+	 shiny brown bag ( 4 )
+	 bright silver bag ( 1 )
+	 clear yellow bag ( 2 )
+]
+
+drab coral bag = [
+]
+
+pale gray bag = [
+	 faded cyan bag ( 5 )
+	 shiny lime bag ( 2 )
+	 striped blue bag ( 3 )
+	 drab purple bag ( 5 )
+]
+
+light tomato bag = [
+	 dull black bag ( 3 )
+	 posh white bag ( 5 )
+]
+
+clear coral bag = [
+	 dim brown bag ( 5 )
+	 drab lavender bag ( 1 )
+	 dull lime bag ( 3 )
+]
+
+dull maroon bag = [
+	 dim salmon bag ( 5 )
+	 dim silver bag ( 4 )
+	 dark magenta bag ( 3 )
+]
+
+wavy lime bag = [
+	 striped plum bag ( 2 )
+	 faded brown bag ( 3 )
+]
+
+dim white bag = [
+	 striped turquoise bag ( 5 )
+	 muted yellow bag ( 4 )
+	 shiny crimson bag ( 4 )
+]
+
+mirrored violet bag = [
+	 dotted purple bag ( 2 )
+	 posh green bag ( 2 )
+]
+
+shiny tan bag = [
+	 bright violet bag ( 2 )
+	 faded orange bag ( 5 )
+	 mirrored cyan bag ( 2 )
+]
+
+striped olive bag = [
+	 vibrant orange bag ( 2 )
+	 dim red bag ( 5 )
+	 dim cyan bag ( 1 )
+	 mirrored cyan bag ( 3 )
+]
+
+dull bronze bag = [
+	 bright plum bag ( 1 )
+	 wavy red bag ( 3 )
+	 drab silver bag ( 2 )
+]
+
+bright red bag = [
+	 faded olive bag ( 2 )
+	 drab olive bag ( 5 )
+	 striped lime bag ( 1 )
+]
+
+bright silver bag = [
+	 drab coral bag ( 2 )
+	 mirrored red bag ( 5 )
+	 drab fuchsia bag ( 5 )
+]
+
+dark gold bag = [
+	 light aqua bag ( 1 )
+]
+
+drab tan bag = [
+	 vibrant bronze bag ( 3 )
+	 pale white bag ( 1 )
+]
+
+bright plum bag = [
+	 pale tan bag ( 2 )
+]
+
+muted white bag = [
+	 bright brown bag ( 5 )
+	 bright plum bag ( 5 )
+	 dull gold bag ( 1 )
+]
+
+dim silver bag = [
+	 bright plum bag ( 4 )
+]
+
+posh beige bag = [
+	 shiny purple bag ( 1 )
+]
+
+wavy cyan bag = [
+	 striped indigo bag ( 1 )
+]
+
+dotted tomato bag = [
+	 muted bronze bag ( 2 )
+	 dark magenta bag ( 1 )
+]
+
+dull lavender bag = [
+	 pale blue bag ( 3 )
+	 clear blue bag ( 5 )
+]
+
+wavy black bag = [
+	 dim beige bag ( 2 )
+	 clear bronze bag ( 1 )
+	 shiny gray bag ( 5 )
+]
+
+shiny bronze bag = [
+	 mirrored indigo bag ( 4 )
+	 wavy turquoise bag ( 2 )
+	 wavy blue bag ( 2 )
+	 mirrored beige bag ( 3 )
+]
+
+vibrant aqua bag = [
+	 drab coral bag ( 43200 )
+	 dim cyan bag ( 43200 )
+	 dim tan bag ( 72000 )
+]
+
+dim brown bag = [
+	 drab coral bag ( 2 )
+]
+
+pale indigo bag = [
+	 faded blue bag ( 2 )
+	 pale yellow bag ( 2 )
+	 dim tomato bag ( 5 )
+	 dark coral bag ( 5 )
+]
+
+shiny olive bag = [
+	 plaid olive bag ( 5 )
+	 muted silver bag ( 3 )
+]
+
+mirrored gray bag = [
+	 dark coral bag ( 1 )
+	 mirrored crimson bag ( 2 )
+	 light yellow bag ( 3 )
+	 dull crimson bag ( 5 )
+]
+
+dull cyan bag = [
+	 dotted silver bag ( 1 )
+	 striped olive bag ( 5 )
+	 faded gray bag ( 5 )
+	 dark green bag ( 1 )
+]
+
+bright blue bag = [
+	 muted purple bag ( 4 )
+	 bright fuchsia bag ( 3 )
+	 muted maroon bag ( 5 )
+]
+
+pale chartreuse bag = [
+	 dim aqua bag ( 3 )
+	 mirrored lime bag ( 4 )
+]
+
+dotted olive bag = [
+	 plaid gold bag ( 3 )
+	 mirrored salmon bag ( 5 )
+	 dim magenta bag ( 2 )
+]
+
+dotted silver bag = [
+	 vibrant yellow bag ( 1 )
+	 pale lime bag ( 4 )
+	 pale crimson bag ( 4 )
+]
+
+vibrant cyan bag = [
+	 bright green bag ( 1 )
+	 muted teal bag ( 4 )
+	 clear salmon bag ( 3 )
+]
+
+posh brown bag = [
+	 posh crimson bag ( 4 )
+]
+
+faded salmon bag = [
+	 wavy olive bag ( 4 )
+	 mirrored salmon bag ( 3 )
+	 plaid violet bag ( 1 )
+]
+
+vibrant coral bag = [
+	 mirrored cyan bag ( 3 )
+]
+
+light fuchsia bag = [
+	 light orange bag ( 4 )
+	 muted chartreuse bag ( 5 )
+	 wavy tomato bag ( 3 )
+	 dotted violet bag ( 1 )
+]
+
+faded chartreuse bag = [
+	 vibrant red bag ( 2 )
+	 vibrant aqua bag ( 4 )
+	 pale purple bag ( 5 )
+	 mirrored olive bag ( 5 )
+]
+
+pale brown bag = [
+	 dim gray bag ( 3 )
+]
+
+dull gold bag = [
+]
+
+shiny tomato bag = [
+	 drab orange bag ( 5 )
+	 dull crimson bag ( 3 )
+	 clear tan bag ( 4 )
+	 faded blue bag ( 5 )
+]
+
+plaid teal bag = [
+	 dotted blue bag ( 2 )
+	 vibrant olive bag ( 5 )
+	 faded orange bag ( 5 )
+]
+
+pale red bag = [
+	 clear aqua bag ( 5 )
+	 dim turquoise bag ( 2 )
+	 drab gray bag ( 5 )
+	 faded turquoise bag ( 4 )
+]
+
+striped lavender bag = [
+	 vibrant salmon bag ( 2 )
+	 bright black bag ( 5 )
+	 dull blue bag ( 5 )
+]
+
+dim black bag = [
+	 shiny green bag ( 3 )
+	 mirrored gold bag ( 5 )
+	 wavy fuchsia bag ( 2 )
+]
+
+posh green bag = [
+	 striped cyan bag ( 4 )
+	 bright lime bag ( 2 )
+	 dotted black bag ( 1 )
+	 dim silver bag ( 5 )
+]
+
+wavy beige bag = [
+	 bright tomato bag ( 1 )
+	 dull olive bag ( 2 )
+	 dotted violet bag ( 3 )
+]
+
+wavy salmon bag = [
+	 clear tan bag ( 3 )
+	 dull bronze bag ( 1 )
+]
+
+pale blue bag = [
+	 dim red bag ( 1 )
+	 clear silver bag ( 4 )
+	 dull salmon bag ( 2 )
+	 vibrant salmon bag ( 4 )
+]
+
+muted red bag = [
+	 plaid teal bag ( 3 )
+	 posh coral bag ( 1 )
+	 posh plum bag ( 3 )
+]
+
+dull magenta bag = [
+	 vibrant yellow bag ( 2 )
+]
+
+mirrored fuchsia bag = [
+	 bright maroon bag ( 2 )
+	 dim beige bag ( 2 )
+	 muted gold bag ( 3 )
+	 striped brown bag ( 4 )
+]
+
+wavy blue bag = [
+	 dull crimson bag ( 3 )
+	 light blue bag ( 4 )
+]
+
+light cyan bag = [
+	 mirrored magenta bag ( 4 )
+	 dotted turquoise bag ( 1 )
+]
+
+clear brown bag = [
+	 shiny teal bag ( 2 )
+]
+
+dull turquoise bag = [
+	 faded lavender bag ( 1 )
+	 dark blue bag ( 5 )
+	 striped cyan bag ( 3 )
+]
+
+shiny crimson bag = [
+	 mirrored magenta bag ( 5 )
+	 plaid silver bag ( 2 )
+	 vibrant brown bag ( 3 )
+	 vibrant orange bag ( 2 )
+]
+
+shiny maroon bag = [
+	 dark bronze bag ( 2 )
+	 bright salmon bag ( 2 )
+	 striped cyan bag ( 5 )
+]
+
+light purple bag = [
+	 shiny chartreuse bag ( 2 )
+	 dim gray bag ( 2 )
+	 pale red bag ( 5 )
+]
+
+clear orange bag = [
+	 light olive bag ( 2 )
+	 faded turquoise bag ( 4 )
+	 drab gray bag ( 4 )
+	 mirrored olive bag ( 2 )
+]
+
+bright lime bag = [
+	 posh tomato bag ( 3 )
+	 striped indigo bag ( 4 )
+	 dull white bag ( 1 )
+	 light plum bag ( 2 )
+]
+
+posh red bag = [
+	 dim cyan bag ( 10 )
+]
+
+vibrant lavender bag = [
+	 vibrant orange bag ( 3 )
+	 dark aqua bag ( 1 )
+]
+
+plaid chartreuse bag = [
+	 dotted orange bag ( 5 )
+	 vibrant maroon bag ( 2 )
+	 dotted lavender bag ( 1 )
+]
+
+bright beige bag = [
+	 bright violet bag ( 3 )
+]
+
+mirrored tomato bag = [
+	 light yellow bag ( 5 )
+	 drab orange bag ( 2 )
+]
+
+dark black bag = [
+	 muted aqua bag ( 1 )
+]
+
+dull lime bag = [
+	 dotted lavender bag ( 4 )
+	 dim cyan bag ( 3 )
+	 dim tan bag ( 4 )
+]
+
+bright indigo bag = [
+	 mirrored gray bag ( 1 )
+	 vibrant red bag ( 4 )
+	 dim tomato bag ( 3 )
+]
+
+dotted gold bag = [
+	 pale coral bag ( 5 )
+	 dim bronze bag ( 5 )
+]
+
+shiny black bag = [
+	 muted white bag ( 3 )
+	 dim maroon bag ( 1 )
+	 dull salmon bag ( 2 )
+]
+
+shiny beige bag = [
+	 dim yellow bag ( 1 )
+	 mirrored coral bag ( 2 )
+	 bright salmon bag ( 2 )
+	 vibrant brown bag ( 5 )
+]
+
+muted chartreuse bag = [
+	 clear white bag ( 1 )
+	 shiny violet bag ( 1 )
+	 bright fuchsia bag ( 5 )
+]
+
+plaid black bag = [
+	 plaid teal bag ( 4 )
+	 vibrant green bag ( 5 )
+]
+
+vibrant tan bag = [
+	 vibrant lime bag ( 1 )
+	 drab blue bag ( 1 )
+	 dark maroon bag ( 5 )
+]
+
+striped salmon bag = [
+	 drab cyan bag ( 4 )
+	 light yellow bag ( 5 )
+	 vibrant orange bag ( 4 )
+	 dark gold bag ( 4 )
+]
+
+vibrant tomato bag = [
+	 wavy white bag ( 3 )
+	 mirrored lime bag ( 1 )
+	 dark fuchsia bag ( 1 )
+]
+
+dotted indigo bag = [
+	 dull maroon bag ( 1 )
+]
+
+light olive bag = [
+	 drab magenta bag ( 4 )
+]
+
+dark white bag = [
+	 posh salmon bag ( 5 )
+	 wavy brown bag ( 5 )
+	 dark fuchsia bag ( 4 )
+]
+
+dim magenta bag = [
+	 vibrant green bag ( 3 )
+	 vibrant olive bag ( 1 )
+]
+
+bright bronze bag = [
+	 pale black bag ( 4 )
+	 mirrored maroon bag ( 2 )
+]
+
+dotted cyan bag = [
+	 light gray bag ( 4 )
+]
+
+pale maroon bag = [
+	 dotted cyan bag ( 3 )
+	 posh brown bag ( 4 )
+	 bright salmon bag ( 1 )
+]
+
+vibrant blue bag = [
+	 clear aqua bag ( 4 )
+	 striped green bag ( 2 )
+	 faded indigo bag ( 1 )
+]
+
+muted fuchsia bag = [
+	 muted indigo bag ( 3 )
+	 vibrant red bag ( 3 )
+	 dim lavender bag ( 4 )
+	 dull teal bag ( 4 )
+]
+
+drab chartreuse bag = [
+	 light blue bag ( 1 )
+	 drab gray bag ( 3 )
+	 dim tan bag ( 1 )
+	 posh crimson bag ( 5 )
+]
+
+pale beige bag = [
+	 pale salmon bag ( 2 )
+	 dark teal bag ( 5 )
+	 shiny chartreuse bag ( 4 )
+	 striped green bag ( 5 )
+]
+
+striped crimson bag = [
+	 clear blue bag ( 3 )
+]
+
+plaid orange bag = [
+	 dull silver bag ( 4 )
+]
+
+clear crimson bag = [
+	 pale red bag ( 1 )
+]
+
+wavy bronze bag = [
+	 plaid magenta bag ( 4 )
+]
+
+faded coral bag = [
+	 mirrored lavender bag ( 5 )
+	 vibrant plum bag ( 2 )
+]
+
+light aqua bag = [
+	 mirrored orange bag ( 5 )
+	 wavy aqua bag ( 4 )
+]
+
+wavy magenta bag = [
+	 clear fuchsia bag ( 3 )
+	 mirrored gray bag ( 3 )
+	 dull fuchsia bag ( 4 )
+]
+
+bright tan bag = [
+	 faded cyan bag ( 5 )
+	 mirrored aqua bag ( 5 )
+	 dim orange bag ( 3 )
+]
+
+vibrant maroon bag = [
+	 dim beige bag ( 3 )
+	 drab blue bag ( 4 )
+]
+
+dotted gray bag = [
+	 vibrant bronze bag ( 4 )
+	 dark maroon bag ( 4 )
+	 muted lavender bag ( 4 )
+]
+
+muted silver bag = [
+	 muted maroon bag ( 5 )
+	 clear fuchsia bag ( 3 )
+	 dark gold bag ( 3 )
+]
+
+faded black bag = [
+	 faded bronze bag ( 3 )
+]
+
+posh cyan bag = [
+	 posh black bag ( 3 )
+	 drab black bag ( 4 )
+]
+
+drab aqua bag = [
+	 mirrored tan bag ( 3 )
+]
+
+wavy white bag = [
+	 dim lavender bag ( 2 )
+	 faded teal bag ( 3 )
+	 dull tan bag ( 2 )
+	 drab orange bag ( 3 )
+]
+
+posh turquoise bag = [
+	 pale tan bag ( 1 )
+	 dark purple bag ( 1 )
+	 shiny white bag ( 4 )
+	 drab brown bag ( 2 )
+]
+
+dull green bag = [
+	 muted gray bag ( 4 )
+	 drab gray bag ( 4 )
+	 clear yellow bag ( 3 )
+]
+
+vibrant olive bag = [
+	 faded tan bag ( 1 )
+	 drab silver bag ( 3 )
+	 muted brown bag ( 4 )
+	 faded blue bag ( 2 )
+]
+
+striped teal bag = [
+	 light brown bag ( 4 )
+	 plaid brown bag ( 5 )
+	 clear turquoise bag ( 4 )
+]
+
+wavy teal bag = [
+	 dull salmon bag ( 5 )
+	 bright coral bag ( 2 )
+	 bright plum bag ( 2 )
+]
+
+muted green bag = [
+	 muted gold bag ( 4 )
+	 posh black bag ( 4 )
+	 striped fuchsia bag ( 1 )
+	 dotted blue bag ( 1 )
+]
+
+bright coral bag = [
+	 faded chartreuse bag ( 1 )
+]
+
+light gold bag = [
+	 dark blue bag ( 3 )
+]
+
+pale yellow bag = [
+	 dotted black bag ( 5 )
+	 drab silver bag ( 2 )
+	 shiny gold bag ( 3 )
+]
+
+posh indigo bag = [
+	 faded teal bag ( 1 )
+	 dark cyan bag ( 3 )
+]
+
+dotted magenta bag = [
+	 dull purple bag ( 2 )
+	 dim gold bag ( 4 )
+	 drab gray bag ( 5 )
+	 faded bronze bag ( 4 )
+]
+
+light violet bag = [
+	 posh brown bag ( 5 )
+]
+
+dull blue bag = [
+	 drab coral bag ( 5 )
+	 drab chartreuse bag ( 5 )
+]
+
+light magenta bag = [
+	 dark purple bag ( 5 )
+	 plaid silver bag ( 3 )
+]
+
+striped white bag = [
+	 vibrant maroon bag ( 4 )
+]
+
+striped tan bag = [
+	 dotted black bag ( 1 )
+	 dull crimson bag ( 1 )
+]
+
+vibrant silver bag = [
+	 dotted lavender bag ( 4 )
+	 wavy green bag ( 3 )
+	 striped yellow bag ( 1 )
+	 muted plum bag ( 4 )
+]
+
+dark blue bag = [
+	 pale brown bag ( 4 )
+	 mirrored gray bag ( 1 )
+]
+
+wavy coral bag = [
+	 clear gold bag ( 1 )
+	 drab tan bag ( 2 )
+	 plaid magenta bag ( 1 )
+	 pale lime bag ( 2 )
+]
+
+faded aqua bag = [
+	 light gray bag ( 1 )
+]
+
+dim purple bag = [
+	 bright coral bag ( 4 )
+	 posh yellow bag ( 2 )
+]
+
+drab indigo bag = [
+	 wavy aqua bag ( 3 )
+	 mirrored indigo bag ( 3 )
+	 dull brown bag ( 5 )
+]
+
+clear bronze bag = [
+	 bright plum bag ( 5 )
+	 dim beige bag ( 1 )
+	 dim cyan bag ( 1 )
+	 dotted blue bag ( 5 )
+]
+
+light brown bag = [
+	 shiny maroon bag ( 4 )
+	 drab lavender bag ( 1 )
+	 dark violet bag ( 5 )
+	 dull green bag ( 4 )
+]
+
+vibrant lime bag = [
+	 pale cyan bag ( 2 )
+]
+
+posh purple bag = [
+	 light coral bag ( 4 )
+	 dim aqua bag ( 1 )
+]
+
+dark bronze bag = [
+	 faded indigo bag ( 4 )
+	 muted yellow bag ( 5 )
+]
+
+striped bronze bag = [
+	 bright white bag ( 5 )
+	 clear bronze bag ( 2 )
+	 bright silver bag ( 3 )
+]
+
+shiny magenta bag = [
+	 clear orange bag ( 3 )
+	 plaid silver bag ( 2 )
+	 bright turquoise bag ( 5 )
+	 shiny orange bag ( 4 )
+]
+
+drab salmon bag = [
+	 dull magenta bag ( 4 )
+	 muted teal bag ( 5 )
+]
+
+dark green bag = [
+	 wavy red bag ( 2 )
+]
+
+faded purple bag = [
+	 shiny black bag ( 1 )
+	 mirrored white bag ( 2 )
+]
+
+light beige bag = [
+	 muted olive bag ( 5 )
+]
+
+dotted teal bag = [
+	 muted indigo bag ( 3 )
+]
+
+striped magenta bag = [
+	 shiny cyan bag ( 5 )
+	 dotted purple bag ( 3 )
+	 striped silver bag ( 4 )
+	 light coral bag ( 3 )
+]
+
+drab silver bag = [
+	 faded blue bag ( 5 )
+	 wavy chartreuse bag ( 5 )
+	 dull crimson bag ( 5 )
+	 muted yellow bag ( 5 )
+]
+
+plaid purple bag = [
+	 clear tan bag ( 4 )
+	 dim yellow bag ( 3 )
+]
+
+dotted salmon bag = [
+	 dim purple bag ( 5 )
+	 dull indigo bag ( 4 )
+	 pale turquoise bag ( 2 )
+]
+
+mirrored salmon bag = [
+	 bright salmon bag ( 1 )
+	 drab lavender bag ( 4 )
+]
+
+plaid aqua bag = [
+	 mirrored tan bag ( 3 )
+	 mirrored green bag ( 2 )
+	 dark gray bag ( 2 )
+	 dotted blue bag ( 4 )
+]
+
+clear blue bag = [
+	 dim gold bag ( 1 )
+	 dark crimson bag ( 4 )
+	 light gray bag ( 2 )
+	 muted olive bag ( 4 )
+]
+
+bright purple bag = [
+	 bright gray bag ( 4 )
+	 plaid tomato bag ( 2 )
+]
+
+bright teal bag = [
+	 mirrored aqua bag ( 1 )
+	 drab fuchsia bag ( 5 )
+]
+
+plaid white bag = [
+	 dim turquoise bag ( 3 )
+]
+
+dark beige bag = [
+	 dull green bag ( 5 )
+	 clear violet bag ( 5 )
+	 pale coral bag ( 1 )
+	 pale silver bag ( 3 )
+]
+
+wavy plum bag = [
+	 light teal bag ( 4 )
+	 shiny aqua bag ( 4 )
+	 light olive bag ( 2 )
+	 light blue bag ( 4 )
+]
+
+striped green bag = [
+	 drab cyan bag ( 2 )
+	 dim gray bag ( 5 )
+]
+
+faded magenta bag = [
+	 dark crimson bag ( 3 )
+	 dark violet bag ( 3 )
+]
+
+light plum bag = [
+	 pale coral bag ( 2 )
+]
+
+dark violet bag = [
+	 faded violet bag ( 3 )
+	 dull plum bag ( 1 )
+	 drab silver bag ( 1 )
+	 pale purple bag ( 1 )
+]
+
+wavy aqua bag = [
+	 muted teal bag ( 1 )
+]
+
+dim bronze bag = [
+	 muted olive bag ( 4 )
+]
+
+bright brown bag = [
+	 dotted green bag ( 2 )
+	 clear tan bag ( 4 )
+	 wavy red bag ( 3 )
+]
+
+clear aqua bag = [
+	 dull lime bag ( 1 )
+	 clear violet bag ( 1 )
+	 dim tan bag ( 2 )
+	 bright gray bag ( 3 )
+]
+
+drab gold bag = [
+	 bright salmon bag ( 4 )
+	 shiny fuchsia bag ( 2 )
+	 faded lime bag ( 4 )
+	 plaid magenta bag ( 5 )
+]
+
+pale aqua bag = [
+	 vibrant crimson bag ( 1 )
+	 striped silver bag ( 3 )
+	 bright lavender bag ( 3 )
+	 shiny white bag ( 3 )
+]
+
+clear green bag = [
+	 dotted violet bag ( 1 )
+	 dotted bronze bag ( 3 )
+	 clear bronze bag ( 1 )
+]
+
+drab yellow bag = [
+	 bright brown bag ( 3 )
+	 mirrored aqua bag ( 3 )
+]
+
+bright maroon bag = [
+	 drab gray bag ( 4 )
+	 mirrored olive bag ( 1 )
+	 faded white bag ( 5 )
+]
+
+dark lime bag = [
+	 mirrored violet bag ( 3 )
+]
+
+plaid cyan bag = [
+	 plaid tan bag ( 3 )
+	 drab coral bag ( 3 )
+]
+
+dim crimson bag = [
+	 posh lime bag ( 1 )
+	 dark salmon bag ( 1 )
+]
+
+dull crimson bag = [
+	 dull gold bag ( 12 )
+	 vibrant aqua bag ( 48 )
+]
+
+dark purple bag = [
+	 drab chartreuse bag ( 1 )
+	 posh lavender bag ( 1 )
+	 clear blue bag ( 1 )
+]
+
+wavy chartreuse bag = [
+	 mirrored white bag ( 3 )
+	 drab chartreuse bag ( 2 )
+	 muted orange bag ( 5 )
+	 dull crimson bag ( 4 )
+]
+
+mirrored maroon bag = [
+	 faded blue bag ( 1 )
+]
+
+dark coral bag = [
+	 dull crimson bag ( 4 )
+	 muted brown bag ( 3 )
+]
+
+dim lavender bag = [
+	 pale purple bag ( 1 )
+]
+
+shiny lavender bag = [
+	 muted orange bag ( 3 )
+	 bright plum bag ( 1 )
+	 muted lavender bag ( 5 )
+]
+
+posh lavender bag = [
+	 dim silver bag ( 5 )
+	 striped indigo bag ( 3 )
+	 muted gray bag ( 3 )
+	 dull violet bag ( 3 )
+]
+
+drab lime bag = [
+	 wavy teal bag ( 2 )
+	 dim maroon bag ( 3 )
+	 dark cyan bag ( 1 )
+]
+
+dotted lime bag = [
+	 dull fuchsia bag ( 3 )
+	 plaid fuchsia bag ( 4 )
+	 pale gray bag ( 4 )
+	 drab fuchsia bag ( 3 )
+]
+
+drab tomato bag = [
+	 muted lime bag ( 4 )
+	 striped cyan bag ( 2 )
+]
+
+shiny gold bag = [
+	 dim beige bag ( 2 )
+	 dark maroon bag ( 1 )
+	 light blue bag ( 4 )
+]
+
+shiny violet bag = [
+	 bright lime bag ( 2 )
+	 dull magenta bag ( 5 )
+]
+
+striped turquoise bag = [
+	 pale salmon bag ( 2 )
+	 muted orange bag ( 3 )
+	 posh lavender bag ( 3 )
+]
+
+faded orange bag = [
+	 vibrant red bag ( 2 )
+]
+
+shiny indigo bag = [
+	 dull lavender bag ( 5 )
+	 light white bag ( 1 )
+]
+
+dull yellow bag = [
+	 muted teal bag ( 3 )
+	 dim green bag ( 1 )
+	 pale brown bag ( 4 )
+]
+
+dark tomato bag = [
+	 posh teal bag ( 1 )
+	 posh lavender bag ( 1 )
+	 dim cyan bag ( 5 )
+	 light yellow bag ( 4 )
+]
+
+dotted blue bag = [
+	 muted orange bag ( 3 )
+]
+
+dull gray bag = [
+	 bright brown bag ( 4 )
+	 dark blue bag ( 5 )
+	 dull cyan bag ( 4 )
+	 dark violet bag ( 1 )
+]
+
+dim red bag = [
+	 vibrant bronze bag ( 3 )
+	 dotted gray bag ( 3 )
+]
+
+plaid violet bag = [
+	 clear lavender bag ( 4 )
+	 drab maroon bag ( 4 )
+	 muted maroon bag ( 4 )
+	 bright red bag ( 1 )
+]
+
+light maroon bag = [
+	 dim fuchsia bag ( 4 )
+	 light yellow bag ( 1 )
+	 pale magenta bag ( 3 )
+]
+
+dim cyan bag = [
+]
+
+dotted white bag = [
+	 mirrored purple bag ( 2 )
+	 faded cyan bag ( 4 )
+	 vibrant salmon bag ( 1 )
+]
+
+dotted lavender bag = [
+]
+
+mirrored beige bag = [
+	 vibrant turquoise bag ( 4 )
+	 muted yellow bag ( 4 )
+	 faded cyan bag ( 5 )
+	 drab purple bag ( 2 )
+]
+
+dotted purple bag = [
+	 faded indigo bag ( 5 )
+	 drab magenta bag ( 4 )
+	 shiny chartreuse bag ( 5 )
+	 faded maroon bag ( 3 )
+]
+
+dim turquoise bag = [
+]
+
+mirrored magenta bag = [
+	 pale coral bag ( 5 )
+	 dark crimson bag ( 1 )
+]
+
+vibrant black bag = [
+	 plaid white bag ( 3 )
+]
+
+clear chartreuse bag = [
+	 faded fuchsia bag ( 4 )
+	 light gray bag ( 2 )
+	 vibrant maroon bag ( 3 )
+	 posh lavender bag ( 3 )
+]
+
+muted beige bag = [
+	 bright silver bag ( 2 )
+	 bright gold bag ( 5 )
+	 pale brown bag ( 4 )
+	 bright bronze bag ( 2 )
+]
+
+clear gray bag = [
+	 dark cyan bag ( 3 )
+	 mirrored red bag ( 2 )
+	 wavy teal bag ( 2 )
+]
+
+bright white bag = [
+	 dotted maroon bag ( 5 )
+	 wavy aqua bag ( 1 )
+]
+
+faded plum bag = [
+	 muted brown bag ( 1 )
+	 dull bronze bag ( 4 )
+	 plaid white bag ( 1 )
+	 drab blue bag ( 1 )
+]
+
+clear plum bag = [
+	 clear silver bag ( 4 )
+	 bright beige bag ( 2 )
+	 mirrored red bag ( 5 )
+	 dull magenta bag ( 2 )
+]
+
+striped cyan bag = [
+	 posh chartreuse bag ( 4 )
+	 dull brown bag ( 4 )
+	 posh tomato bag ( 2 )
+	 dark crimson bag ( 3 )
+]
+
+light blue bag = [
+]
+
+posh gray bag = [
+	 dull lavender bag ( 4 )
+	 dim gray bag ( 4 )
+]
+
+dotted brown bag = [
+	 dim turquoise bag ( 4 )
+	 dotted gray bag ( 1 )
+	 dark magenta bag ( 3 )
+	 bright coral bag ( 2 )
+]
+
+dotted turquoise bag = [
+	 mirrored crimson bag ( 5 )
+	 dull orange bag ( 2 )
+]
+
+drab teal bag = [
+	 wavy aqua bag ( 1 )
+	 mirrored gray bag ( 2 )
+	 dim lavender bag ( 5 )
+]
+
+light teal bag = [
+	 drab magenta bag ( 4 )
+	 dull crimson bag ( 2 )
+	 posh brown bag ( 3 )
+]
+
+mirrored indigo bag = [
+	 dim gray bag ( 4 )
+]
+
+dim gray bag = [
+	 dull gold bag ( 2 )
+]
+
+striped tomato bag = [
+	 wavy indigo bag ( 1 )
+	 shiny coral bag ( 5 )
+	 vibrant bronze bag ( 5 )
+]
+
+mirrored white bag = [
+	 dull gold bag ( 10 )
+	 muted lavender bag ( 10 )
+	 dull crimson bag ( 4 )
+]
+
+vibrant chartreuse bag = [
+	 mirrored white bag ( 4 )
+	 muted orange bag ( 2 )
+	 posh magenta bag ( 2 )
+]
+
+bright orange bag = [
+	 shiny aqua bag ( 1 )
+	 mirrored salmon bag ( 2 )
+	 posh red bag ( 3 )
+]
+
+muted tan bag = [
+	 plaid tan bag ( 2 )
+]
+
+mirrored lime bag = [
+	 shiny gray bag ( 1 )
+	 dim indigo bag ( 3 )
+]
+
+pale salmon bag = [
+	 mirrored chartreuse bag ( 3 )
+	 striped salmon bag ( 3 )
+	 faded blue bag ( 4 )
+]
+
+wavy turquoise bag = [
+	 light white bag ( 1 )
+	 posh magenta bag ( 4 )
+	 dim magenta bag ( 5 )
+]
+
+posh lime bag = [
+	 shiny green bag ( 1 )
+	 drab purple bag ( 3 )
+	 vibrant blue bag ( 3 )
+]
+
+clear purple bag = [
+	 clear coral bag ( 2 )
+	 muted green bag ( 2 )
+	 clear maroon bag ( 5 )
+]
+
+muted gray bag = [
+	 dim tan bag ( 1 )
+	 shiny tomato bag ( 1 )
+	 vibrant bronze bag ( 3 )
+	 drab coral bag ( 1 )
+]
+
+wavy brown bag = [
+	 light yellow bag ( 4 )
+	 dark coral bag ( 1 )
+	 dark olive bag ( 2 )
+	 vibrant teal bag ( 4 )
+]
+
+pale tan bag = [
+	 clear yellow bag ( 1 )
+	 vibrant aqua bag ( 2 )
+	 wavy red bag ( 1 )
+	 drab chartreuse bag ( 2 )
+]
+
+dotted aqua bag = [
+	 dim aqua bag ( 5 )
+	 drab olive bag ( 1 )
+	 dim violet bag ( 5 )
+	 light plum bag ( 2 )
+]
+
+faded violet bag = [
+	 drab chartreuse bag ( 1 )
+	 dim turquoise bag ( 1 )
+	 mirrored olive bag ( 2 )
+	 clear tan bag ( 2 )
+]
+
+faded gray bag = [
+	 wavy blue bag ( 1 )
+	 vibrant yellow bag ( 2 )
+	 light magenta bag ( 1 )
+]
+
+dim gold bag = [
+	 shiny gold bag ( 1 )
+]
+
+vibrant salmon bag = [
+	 dim beige bag ( 3 )
+	 light gray bag ( 2 )
+	 wavy red bag ( 2 )
+	 dull brown bag ( 5 )
+]
+
+dull chartreuse bag = [
+	 shiny chartreuse bag ( 3 )
+	 striped brown bag ( 3 )
+	 mirrored blue bag ( 2 )
+	 pale coral bag ( 3 )
+]
+
+vibrant orange bag = [
+	 dim fuchsia bag ( 3 )
+	 dull crimson bag ( 3 )
+	 vibrant salmon bag ( 5 )
+]
+
+wavy indigo bag = [
+	 bright olive bag ( 2 )
+	 shiny red bag ( 3 )
+	 clear blue bag ( 4 )
+]
+
+plaid bronze bag = [
+	 bright orange bag ( 1 )
+	 wavy turquoise bag ( 5 )
+	 vibrant beige bag ( 5 )
+]
+
+bright salmon bag = [
+	 dark cyan bag ( 5 )
+]
+
+plaid plum bag = [
+	 vibrant yellow bag ( 1 )
+]
+
+clear black bag = [
+	 shiny lavender bag ( 1 )
+]
+
+clear salmon bag = [
+	 drab gray bag ( 2 )
+	 mirrored cyan bag ( 1 )
+]
+
+faded white bag = [
+	 drab gray bag ( 4 )
+	 dim gray bag ( 4 )
+]
+
+dotted crimson bag = [
+	 pale magenta bag ( 4 )
+	 muted red bag ( 5 )
+	 shiny yellow bag ( 4 )
+]
+
+pale white bag = [
+	 dark coral bag ( 5 )
+	 dim tomato bag ( 3 )
+	 wavy indigo bag ( 3 )
+]
+
+wavy olive bag = [
+	 pale blue bag ( 2 )
+	 dull gold bag ( 1 )
+	 clear aqua bag ( 3 )
+	 mirrored gray bag ( 1 )
+]
+
+shiny chartreuse bag = [
+	 clear violet bag ( 2 )
+	 posh coral bag ( 3 )
+	 drab chartreuse bag ( 2 )
+	 pale silver bag ( 2 )
+]
+
+dark teal bag = [
+	 posh yellow bag ( 5 )
+	 dull plum bag ( 4 )
+	 muted plum bag ( 3 )
+	 mirrored beige bag ( 5 )
+]
+
+plaid gray bag = [
+	 vibrant aqua bag ( 1 )
+]
+
+plaid tan bag = [
+	 muted yellow bag ( 5 )
+	 bright brown bag ( 1 )
+]
+
+clear teal bag = [
+	 faded teal bag ( 1 )
+	 muted white bag ( 4 )
+]
+
+striped orange bag = [
+	 shiny salmon bag ( 4 )
+]
+
+faded maroon bag = [
+	 dark red bag ( 1 )
+	 mirrored red bag ( 1 )
+]
+
+plaid gold bag = [
+	 dark crimson bag ( 4 )
+	 dotted crimson bag ( 3 )
+]
+
+muted plum bag = [
+	 bright coral bag ( 3 )
+	 posh indigo bag ( 5 )
+	 bright gray bag ( 4 )
+]
+
+dotted tan bag = [
+	 posh plum bag ( 2 )
+	 pale teal bag ( 2 )
+	 pale maroon bag ( 2 )
+]
+
+pale plum bag = [
+	 pale tan bag ( 4 )
+	 drab silver bag ( 1 )
+	 dim beige bag ( 3 )
+]
+
+dim teal bag = [
+	 dotted maroon bag ( 2 )
+]
+
+wavy purple bag = [
+	 dim cyan bag ( 3 )
+	 dotted white bag ( 2 )
+	 dark coral bag ( 4 )
+]
+
+bright green bag = [
+	 muted maroon bag ( 2 )
+	 dim orange bag ( 3 )
+]
+
+dim orange bag = [
+	 mirrored brown bag ( 5 )
+	 dim turquoise bag ( 4 )
+]
+
+wavy tan bag = [
+	 faded turquoise bag ( 5 )
+	 posh tomato bag ( 2 )
+	 dark green bag ( 4 )
+	 dull crimson bag ( 4 )
+]
+
+pale tomato bag = [
+	 clear silver bag ( 2 )
+	 shiny green bag ( 3 )
+	 mirrored blue bag ( 2 )
+	 vibrant beige bag ( 4 )
+]
+
+shiny orange bag = [
+	 mirrored green bag ( 3 )
+	 dim tomato bag ( 5 )
+]
+
+drab beige bag = [
+	 plaid olive bag ( 2 )
+]
+
+light chartreuse bag = [
+	 plaid cyan bag ( 3 )
+]
+
+drab fuchsia bag = [
+	 dull gold bag ( 4 )
+	 muted yellow bag ( 3 )
+	 muted orange bag ( 4 )
+	 faded fuchsia bag ( 4 )
+]
+
+pale green bag = [
+	 posh red bag ( 5 )
+	 light fuchsia bag ( 1 )
+	 dotted chartreuse bag ( 2 )
+]
+
+posh silver bag = [
+	 dim gray bag ( 5 )
+	 vibrant beige bag ( 5 )
+	 muted green bag ( 2 )
+]
+
+clear cyan bag = [
+	 muted silver bag ( 1 )
+	 shiny white bag ( 5 )
+	 dotted white bag ( 4 )
+	 striped fuchsia bag ( 2 )
+]
+
+dotted chartreuse bag = [
+	 dotted green bag ( 1 )
+	 dull blue bag ( 4 )
+	 striped indigo bag ( 1 )
+	 dim tomato bag ( 5 )
+]
+
+mirrored chartreuse bag = [
+	 bright silver bag ( 1 )
+	 light plum bag ( 1 )
+	 drab purple bag ( 2 )
+]
+
+posh white bag = [
+	 clear bronze bag ( 5 )
+	 faded maroon bag ( 5 )
+	 light lavender bag ( 3 )
+]
+
+striped silver bag = [
+	 shiny violet bag ( 3 )
+	 dark blue bag ( 3 )
+]
+
+dotted fuchsia bag = [
+	 vibrant cyan bag ( 1 )
+	 dotted crimson bag ( 4 )
+]
+
+clear tan bag = [
+	 vibrant aqua bag ( 20 )
+	 drab coral bag ( 4 )
+	 muted lavender bag ( 16 )
+	 muted orange bag ( 4 )
+]
+
+faded lavender bag = [
+	 dim lavender bag ( 5 )
+	 dim turquoise bag ( 1 )
+	 vibrant magenta bag ( 1 )
+]
+
+drab brown bag = [
+	 clear blue bag ( 2 )
+]
+
+posh crimson bag = [
+	 dim turquoise bag ( 8 )
+	 dim tan bag ( 12 )
+	 dotted lavender bag ( 16 )
+]
+
+posh salmon bag = [
+	 drab maroon bag ( 4 )
+	 mirrored bronze bag ( 3 )
+	 faded plum bag ( 4 )
+]
+
+drab lavender bag = [
+	 clear yellow bag ( 3 )
+]
+
+drab maroon bag = [
+	 pale brown bag ( 1 )
+	 pale purple bag ( 1 )
+]
+
+posh bronze bag = [
+	 muted coral bag ( 5 )
+	 pale orange bag ( 2 )
+]
+
+dotted bronze bag = [
+	 dim tan bag ( 4 )
+]
+
+dull tomato bag = [
+	 mirrored red bag ( 4 )
+	 dark violet bag ( 1 )
+	 posh magenta bag ( 2 )
+	 light indigo bag ( 1 )
+]
+
+striped black bag = [
+	 bright salmon bag ( 1 )
+	 faded white bag ( 3 )
+	 dark magenta bag ( 3 )
+	 muted plum bag ( 1 )
+]
+
+dull beige bag = [
+	 light indigo bag ( 5 )
+]
+
+plaid indigo bag = [
+	 vibrant magenta bag ( 4 )
+	 dull cyan bag ( 2 )
+]
+
+posh tan bag = [
+	 dull orange bag ( 2 )
+	 pale violet bag ( 4 )
+	 shiny brown bag ( 2 )
+]
+
+light salmon bag = [
+	 dim turquoise bag ( 1 )
+	 muted tomato bag ( 1 )
+	 bright black bag ( 4 )
+	 posh yellow bag ( 5 )
+]
+
+faded turquoise bag = [
+	 dull gold bag ( 3 )
+	 muted orange bag ( 3 )
+	 light blue bag ( 4 )
+	 dotted gray bag ( 1 )
+]
+
+mirrored brown bag = [
+	 wavy turquoise bag ( 4 )
+	 dull magenta bag ( 1 )
+	 dim silver bag ( 1 )
+	 dim gray bag ( 2 )
+]
+
+drab white bag = [
+	 shiny cyan bag ( 3 )
+	 wavy aqua bag ( 5 )
+	 faded maroon bag ( 5 )
+]
+
+clear violet bag = [
+	 posh brown bag ( 4 )
+	 striped fuchsia bag ( 2 )
+]
+
+plaid blue bag = [
+	 dark brown bag ( 2 )
+	 drab gray bag ( 5 )
+	 plaid olive bag ( 5 )
+	 dark aqua bag ( 1 )
+]
+
+dark turquoise bag = [
+	 dark cyan bag ( 1 )
+	 light blue bag ( 3 )
+]
+
+wavy lavender bag = [
+	 dull violet bag ( 4 )
+]
+
+striped blue bag = [
+	 dim yellow bag ( 5 )
+	 wavy chartreuse bag ( 1 )
+]
+
+striped purple bag = [
+	 posh black bag ( 5 )
+	 striped fuchsia bag ( 2 )
+	 mirrored magenta bag ( 3 )
+	 dark tan bag ( 3 )
+]
+
+dim blue bag = [
+	 drab purple bag ( 5 )
+]
+
+muted black bag = [
+	 dull tomato bag ( 2 )
+	 mirrored teal bag ( 5 )
+]
+
+dim plum bag = [
+	 muted magenta bag ( 1 )
+	 shiny lavender bag ( 3 )
+]
+
+shiny cyan bag = [
+	 faded plum bag ( 4 )
+	 faded teal bag ( 4 )
+	 posh indigo bag ( 1 )
+]
+
+light yellow bag = [
+	 pale coral bag ( 1 )
+	 dim turquoise bag ( 4 )
+	 mirrored maroon bag ( 4 )
+]
+
+dim olive bag = [
+	 light brown bag ( 3 )
+]
+
+pale lavender bag = [
+	 wavy beige bag ( 1 )
+	 striped olive bag ( 2 )
+]
+
+pale crimson bag = [
+	 clear black bag ( 4 )
+	 dull crimson bag ( 5 )
+	 dotted green bag ( 5 )
+]
+
+muted brown bag = [
+	 muted lavender bag ( 1 )
+]
+
+faded indigo bag = [
+	 bright brown bag ( 3 )
+	 dim tomato bag ( 3 )
+]
+
+dark aqua bag = [
+	 vibrant aqua bag ( 5 )
+	 dull blue bag ( 5 )
+]
+
+muted gold bag = [
+	 mirrored magenta bag ( 2 )
+	 shiny orange bag ( 5 )
+	 drab lavender bag ( 5 )
+]
+
+clear magenta bag = [
+	 muted green bag ( 3 )
+	 dotted aqua bag ( 5 )
+	 posh gray bag ( 2 )
+]
+
+dull coral bag = [
+	 faded magenta bag ( 4 )
+	 plaid lime bag ( 1 )
+	 dotted red bag ( 2 )
+]
+
+dull purple bag = [
+	 shiny gold bag ( 2 )
+	 dim gray bag ( 4 )
+]
+
+posh blue bag = [
+	 clear yellow bag ( 5 )
+	 light indigo bag ( 3 )
+]
+
+dark plum bag = [
+	 faded salmon bag ( 1 )
+	 faded plum bag ( 1 )
+	 pale tan bag ( 3 )
+]
+
+vibrant plum bag = [
+	 shiny olive bag ( 3 )
+	 dim indigo bag ( 1 )
+]
+
+shiny turquoise bag = [
+	 dark aqua bag ( 1 )
+	 dark cyan bag ( 4 )
+]
+
+mirrored tan bag = [
+	 dark olive bag ( 2 )
+	 clear violet bag ( 4 )
+	 wavy salmon bag ( 5 )
+]
+
+clear fuchsia bag = [
+	 vibrant olive bag ( 3 )
+	 pale crimson bag ( 3 )
+	 wavy maroon bag ( 4 )
+	 drab olive bag ( 4 )
+]
+
+posh gold bag = [
+	 dark silver bag ( 3 )
+	 mirrored gray bag ( 4 )
+	 dark salmon bag ( 4 )
+	 dim white bag ( 1 )
+]
+
+faded gold bag = [
+	 clear black bag ( 2 )
+	 pale tomato bag ( 3 )
+	 wavy aqua bag ( 3 )
+]
+
+bright turquoise bag = [
+	 dotted green bag ( 1 )
+]
+
+pale magenta bag = [
+	 vibrant red bag ( 4 )
+	 bright cyan bag ( 3 )
+]
+
+striped plum bag = [
+	 dotted brown bag ( 1 )
+	 wavy green bag ( 3 )
+	 mirrored tomato bag ( 2 )
+]
+
+plaid coral bag = [
+	 dotted aqua bag ( 4 )
+	 wavy salmon bag ( 4 )
+	 dim maroon bag ( 2 )
+]
+
+dark brown bag = [
+	 dull gold bag ( 3 )
+	 bright cyan bag ( 5 )
+	 dull brown bag ( 2 )
+	 dark aqua bag ( 3 )
+]
+
+light orange bag = [
+	 plaid teal bag ( 2 )
+	 dull brown bag ( 2 )
+	 dark brown bag ( 3 )
+]
+
+drab crimson bag = [
+	 posh coral bag ( 2 )
+	 shiny red bag ( 1 )
+]
+
+dull brown bag = [
+	 faded bronze bag ( 1 )
+	 posh tomato bag ( 5 )
+	 muted gray bag ( 1 )
+]
+
+faded cyan bag = [
+	 dark green bag ( 5 )
+]
+
+clear red bag = [
+	 muted gray bag ( 4 )
+]
+
+wavy gold bag = [
+	 bright gray bag ( 1 )
+	 shiny fuchsia bag ( 1 )
+]
+
+posh orange bag = [
+	 wavy plum bag ( 4 )
+	 posh tan bag ( 2 )
+	 bright blue bag ( 1 )
+	 muted red bag ( 4 )
+]
+
+plaid lavender bag = [
+	 striped green bag ( 2 )
+	 posh magenta bag ( 2 )
+	 drab cyan bag ( 3 )
+	 bright plum bag ( 3 )
+]
+
+dull white bag = [
+	 mirrored green bag ( 3 )
+	 dim turquoise bag ( 5 )
+]
+
+bright magenta bag = [
+	 light silver bag ( 1 )
+	 striped salmon bag ( 1 )
+	 dark gold bag ( 4 )
+	 faded lime bag ( 5 )
+]
+
+muted yellow bag = [
+]
+
+shiny coral bag = [
+	 bright violet bag ( 5 )
+]
+
+posh yellow bag = [
+	 pale teal bag ( 1 )
+	 dark crimson bag ( 5 )
+]
+
+dim lime bag = [
+	 dotted gray bag ( 1 )
+	 muted olive bag ( 4 )
+	 muted gray bag ( 2 )
+]
+
+mirrored coral bag = [
+	 plaid olive bag ( 2 )
+]
+
+vibrant fuchsia bag = [
+	 light indigo bag ( 3 )
+]
+
+dark silver bag = [
+	 shiny silver bag ( 3 )
+	 dark lime bag ( 3 )
+]
+
+bright chartreuse bag = [
+	 dim bronze bag ( 1 )
+	 posh bronze bag ( 3 )
+	 drab salmon bag ( 3 )
+]
+
+bright crimson bag = [
+	 clear purple bag ( 2 )
+	 plaid yellow bag ( 2 )
+	 muted fuchsia bag ( 4 )
+]
+
+light black bag = [
+	 drab tan bag ( 1 )
+	 drab lavender bag ( 3 )
+]
+
+faded teal bag = [
+	 drab gray bag ( 2 )
+	 dim gold bag ( 1 )
+	 drab orange bag ( 4 )
+	 clear violet bag ( 5 )
+]
+
+striped indigo bag = [
+	 shiny tomato bag ( 3 )
+	 mirrored olive bag ( 2 )
+]
+
+plaid silver bag = [
+	 dotted blue bag ( 2 )
+	 vibrant aqua bag ( 1 )
+	 shiny chartreuse bag ( 2 )
+]
+
+mirrored olive bag = [
+	 posh crimson bag ( 5 )
+	 faded blue bag ( 3 )
+]
+
+plaid salmon bag = [
+	 dotted green bag ( 2 )
+	 shiny indigo bag ( 4 )
+	 bright brown bag ( 5 )
+]
+
+muted maroon bag = [
+	 dim cyan bag ( 2 )
+]
+
+dim salmon bag = [
+	 faded violet bag ( 5 )
+	 faded lime bag ( 1 )
+]
+
+dull teal bag = [
+	 posh crimson bag ( 3 )
+	 dotted blue bag ( 1 )
+	 muted yellow bag ( 3 )
+]
+
+muted bronze bag = [
+	 posh white bag ( 3 )
+	 clear black bag ( 5 )
+	 mirrored lime bag ( 3 )
+]
+
+shiny plum bag = [
+	 shiny teal bag ( 3 )
+	 wavy gray bag ( 3 )
+]
+
+plaid beige bag = [
+	 dotted turquoise bag ( 4 )
+	 shiny salmon bag ( 5 )
+	 pale red bag ( 2 )
+]
+
+light tan bag = [
+	 dull bronze bag ( 1 )
+	 dim lavender bag ( 2 )
+]
+
+posh plum bag = [
+	 pale coral bag ( 3 )
+	 dull green bag ( 1 )
+	 plaid cyan bag ( 1 )
+	 shiny orange bag ( 4 )
+]
+
+mirrored blue bag = [
+	 muted teal bag ( 2 )
+	 posh crimson bag ( 4 )
+	 dim indigo bag ( 2 )
+	 clear black bag ( 1 )
+]
+
+light silver bag = [
+	 shiny violet bag ( 4 )
+	 posh indigo bag ( 4 )
+	 wavy white bag ( 1 )
+]
+
+drab cyan bag = [
+	 drab blue bag ( 1 )
+]
+
+posh olive bag = [
+	 dark tan bag ( 1 )
+	 drab green bag ( 1 )
+	 pale cyan bag ( 5 )
+	 vibrant turquoise bag ( 4 )
+]
+
+pale orange bag = [
+	 posh turquoise bag ( 5 )
+	 light beige bag ( 3 )
+	 bright aqua bag ( 3 )
+	 dim bronze bag ( 5 )
+]
+
+faded brown bag = [
+	 faded salmon bag ( 2 )
+	 striped crimson bag ( 5 )
+]
+
+clear tomato bag = [
+	 mirrored teal bag ( 4 )
+	 posh turquoise bag ( 2 )
+]
+
+drab magenta bag = [
+	 dark aqua bag ( 1 )
+	 muted maroon bag ( 2 )
+	 drab green bag ( 5 )
+]
+
+drab violet bag = [
+	 plaid fuchsia bag ( 1 )
+	 dull white bag ( 4 )
+	 posh beige bag ( 3 )
+]
+
+bright black bag = [
+	 dull teal bag ( 2 )
+]
+
+shiny aqua bag = [
+	 plaid turquoise bag ( 1 )
+]
+
+light lime bag = [
+	 muted white bag ( 3 )
+	 dark fuchsia bag ( 2 )
+]
+
+wavy silver bag = [
+	 drab teal bag ( 4 )
+	 vibrant maroon bag ( 5 )
+	 wavy teal bag ( 4 )
+	 striped turquoise bag ( 4 )
+]
+
+dark tan bag = [
+	 dim cyan bag ( 2 )
+	 dotted lavender bag ( 4 )
+]
+
+bright gold bag = [
+	 clear blue bag ( 4 )
+	 dull gray bag ( 2 )
+	 striped red bag ( 1 )
+	 muted indigo bag ( 5 )
+]
+
+dull orange bag = [
+	 light blue bag ( 1 )
+	 shiny maroon bag ( 5 )
+]
+
+dim tomato bag = [
+	 bright brown bag ( 3 )
+]
+
+faded lime bag = [
+	 vibrant olive bag ( 5 )
+]
+
+dull salmon bag = [
+	 shiny gold bag ( 2 )
+]
+
+vibrant violet bag = [
+	 dim silver bag ( 5 )
+	 dotted maroon bag ( 4 )
+	 drab fuchsia bag ( 5 )
+	 clear plum bag ( 5 )
+]
+
+muted turquoise bag = [
+	 dark magenta bag ( 5 )
+	 drab gray bag ( 5 )
+	 plaid red bag ( 4 )
+]
+
+shiny fuchsia bag = [
+	 muted brown bag ( 3 )
+	 dim beige bag ( 4 )
+]
+
+vibrant indigo bag = [
+	 dark olive bag ( 4 )
+	 light purple bag ( 5 )
+]
+
+wavy red bag = [
+	 drab coral bag ( 4 )
+	 dotted lavender bag ( 4 )
+	 dim turquoise bag ( 5 )
+]
+
+clear indigo bag = [
+	 dull lavender bag ( 5 )
+	 dark indigo bag ( 4 )
+]
+
+muted purple bag = [
+	 muted magenta bag ( 2 )
+]
+
+light white bag = [
+	 dull plum bag ( 2 )
+	 drab orange bag ( 2 )
+]
+
+mirrored red bag = [
+	 dim tan bag ( 3 )
+	 clear black bag ( 5 )
+	 faded violet bag ( 3 )
+	 mirrored olive bag ( 1 )
+]
+
+dotted violet bag = [
+	 posh plum bag ( 3 )
+]
+
+dark maroon bag = [
+	 shiny tomato bag ( 1 )
+	 mirrored white bag ( 2 )
+	 posh red bag ( 2 )
+]
+
+bright olive bag = [
+	 muted orange bag ( 4 )
+	 dotted orange bag ( 3 )
+]
+
+pale fuchsia bag = [
+	 wavy yellow bag ( 5 )
+	 dotted brown bag ( 3 )
+	 muted black bag ( 3 )
+	 dotted turquoise bag ( 1 )
+]
+
+wavy fuchsia bag = [
+	 dull lime bag ( 2 )
+	 drab fuchsia bag ( 1 )
+	 drab indigo bag ( 3 )
+]
+
+faded silver bag = [
+	 shiny violet bag ( 1 )
+	 faded lavender bag ( 5 )
+]
+
+clear gold bag = [
+	 muted magenta bag ( 3 )
+	 dim teal bag ( 3 )
+	 vibrant olive bag ( 4 )
+	 vibrant salmon bag ( 1 )
+]
+
+pale teal bag = [
+	 mirrored green bag ( 3 )
+	 faded violet bag ( 1 )
+	 vibrant green bag ( 3 )
+]
+
+posh black bag = [
+	 striped cyan bag ( 4 )
+	 dim tan bag ( 2 )
+	 drab blue bag ( 5 )
+	 faded white bag ( 5 )
+]
+
+faded blue bag = [
+	 vibrant aqua bag ( 15 )
+	 muted orange bag ( 15 )
+]
+
+dark cyan bag = [
+	 faded blue bag ( 1 )
+]
+
+bright fuchsia bag = [
+	 pale turquoise bag ( 1 )
+	 dotted cyan bag ( 5 )
+]
+
+bright cyan bag = [
+	 shiny tomato bag ( 4 )
+	 muted lavender bag ( 1 )
+]
+
+shiny teal bag = [
+	 muted orange bag ( 2 )
+	 muted olive bag ( 5 )
+	 mirrored olive bag ( 5 )
+]
+
+dark fuchsia bag = [
+	 wavy salmon bag ( 1 )
+]
+
+wavy violet bag = [
+	 dark fuchsia bag ( 1 )
+]
+
+light gray bag = [
+	 light blue bag ( 2 )
+	 pale purple bag ( 2 )
+]
+
+muted tomato bag = [
+	 bright violet bag ( 1 )
+	 pale plum bag ( 5 )
+	 light plum bag ( 5 )
+]
+
+mirrored bronze bag = [
+	 bright black bag ( 3 )
+	 faded blue bag ( 4 )
+	 striped salmon bag ( 3 )
+	 mirrored olive bag ( 4 )
+]
+
+dull red bag = [
+	 pale plum bag ( 1 )
+]
+
+light coral bag = [
+	 plaid tan bag ( 5 )
+]
+
+faded tan bag = [
+	 pale plum bag ( 4 )
+]
+
+mirrored plum bag = [
+	 dull violet bag ( 5 )
+	 faded turquoise bag ( 3 )
+]
+
+faded red bag = [
+	 posh coral bag ( 5 )
+	 dim silver bag ( 3 )
+	 bright black bag ( 2 )
+	 muted green bag ( 3 )
+]
+
+pale coral bag = [
+	 mirrored olive bag ( 3 )
+	 faded blue bag ( 5 )
+	 dim beige bag ( 3 )
+]
+
+clear white bag = [
+	 clear violet bag ( 2 )
+	 dull beige bag ( 5 )
+	 vibrant aqua bag ( 3 )
+	 dull blue bag ( 4 )
+]
+
+mirrored aqua bag = [
+	 drab blue bag ( 4 )
+]
+
+dim yellow bag = [
+	 bright cyan bag ( 2 )
+	 dim turquoise bag ( 3 )
+	 mirrored green bag ( 2 )
+]
+
+clear silver bag = [
+	 muted gray bag ( 4 )
+	 mirrored maroon bag ( 5 )
+	 clear violet bag ( 1 )
+]
+
+dotted maroon bag = [
+	 drab olive bag ( 2 )
+]
+
+plaid green bag = [
+	 mirrored yellow bag ( 4 )
+	 dark aqua bag ( 4 )
+	 muted gray bag ( 2 )
+]
+
+posh fuchsia bag = [
+	 dotted aqua bag ( 3 )
+]
+
+dim maroon bag = [
+	 wavy aqua bag ( 5 )
+	 faded violet bag ( 5 )
+	 dull crimson bag ( 2 )
+	 posh lavender bag ( 2 )
+]
+
+dark crimson bag = [
+	 drab orange bag ( 4 )
+	 vibrant red bag ( 5 )
+	 pale purple bag ( 1 )
+]
+
+striped aqua bag = [
+	 clear black bag ( 4 )
+	 striped indigo bag ( 3 )
+]
+
+pale bronze bag = [
+	 dull teal bag ( 5 )
+]
+
+muted olive bag = [
+	 striped fuchsia bag ( 5 )
+	 drab silver bag ( 1 )
+	 dotted lavender bag ( 3 )
+]
+
+posh maroon bag = [
+	 dull salmon bag ( 2 )
+	 clear bronze bag ( 5 )
+	 bright cyan bag ( 5 )
+	 clear silver bag ( 5 )
+]
+
+clear yellow bag = [
+	 mirrored green bag ( 1 )
+	 dotted blue bag ( 2 )
+]
+
+pale cyan bag = [
+	 dim orange bag ( 3 )
+	 drab lavender bag ( 4 )
+	 bright coral bag ( 2 )
+	 light white bag ( 5 )
+]
+
+shiny gray bag = [
+	 shiny purple bag ( 5 )
+	 vibrant green bag ( 5 )
+	 bright cyan bag ( 1 )
+	 light blue bag ( 5 )
+]
+
+clear beige bag = [
+	 posh coral bag ( 1 )
+	 dim silver bag ( 4 )
+	 wavy turquoise bag ( 1 )
+	 bright white bag ( 4 )
+]
+
+vibrant teal bag = [
+	 dark violet bag ( 1 )
+	 wavy blue bag ( 3 )
+	 dull fuchsia bag ( 1 )
+]
+
+plaid crimson bag = [
+	 dark violet bag ( 3 )
+	 dull gray bag ( 2 )
+]
+
+wavy green bag = [
+	 pale brown bag ( 5 )
+	 plaid turquoise bag ( 3 )
+	 mirrored maroon bag ( 2 )
+]
+
+dotted red bag = [
+	 striped plum bag ( 4 )
+	 shiny aqua bag ( 5 )
+	 clear red bag ( 2 )
+]
+
+pale silver bag = [
+	 dull fuchsia bag ( 2 )
+	 dark maroon bag ( 2 )
+]
+
+dull olive bag = [
+	 faded plum bag ( 2 )
+	 striped white bag ( 4 )
+	 wavy indigo bag ( 4 )
+]
+
+wavy tomato bag = [
+	 dim beige bag ( 4 )
+	 faded orange bag ( 5 )
+]
+
+dim green bag = [
+	 wavy maroon bag ( 1 )
+]
+
+faded beige bag = [
+	 vibrant red bag ( 4 )
+	 pale tan bag ( 3 )
+]
+
+light red bag = [
+	 dim maroon bag ( 4 )
+	 faded salmon bag ( 4 )
+	 plaid purple bag ( 5 )
+]
+
+striped red bag = [
+	 wavy blue bag ( 4 )
+	 vibrant maroon bag ( 1 )
+	 shiny yellow bag ( 5 )
+]
+
+muted salmon bag = [
+	 dim lime bag ( 3 )
+	 shiny violet bag ( 2 )
+	 dark green bag ( 2 )
+	 mirrored chartreuse bag ( 1 )
+]
+
+mirrored teal bag = [
+	 wavy maroon bag ( 4 )
+	 faded magenta bag ( 1 )
+	 wavy teal bag ( 2 )
+	 vibrant salmon bag ( 2 )
+]
+
+drab olive bag = [
+	 dull blue bag ( 2 )
+	 pale coral bag ( 5 )
+	 vibrant salmon bag ( 1 )
+	 dotted green bag ( 1 )
+]
+
+plaid turquoise bag = [
+	 shiny lavender bag ( 3 )
+	 faded beige bag ( 3 )
+]
+
+dim chartreuse bag = [
+	 muted plum bag ( 5 )
+	 vibrant aqua bag ( 4 )
+]
+
+plaid tomato bag = [
+	 posh brown bag ( 1 )
+	 muted white bag ( 3 )
+	 vibrant fuchsia bag ( 4 )
+	 drab magenta bag ( 2 )
+]
+
+light bronze bag = [
+	 bright plum bag ( 5 )
+]
+
+shiny brown bag = [
+	 dark green bag ( 1 )
+	 vibrant olive bag ( 3 )
+	 wavy indigo bag ( 1 )
+]
+
+vibrant magenta bag = [
+	 dark aqua bag ( 1 )
+]
+
+light crimson bag = [
+	 light magenta bag ( 4 )
+	 mirrored blue bag ( 3 )
+	 pale tomato bag ( 1 )
+	 muted tomato bag ( 1 )
+]
+
+striped chartreuse bag = [
+	 shiny chartreuse bag ( 2 )
+	 drab gray bag ( 5 )
+	 dotted brown bag ( 2 )
+	 plaid coral bag ( 1 )
+]
+
+muted magenta bag = [
+	 vibrant aqua bag ( 2 )
+]
+
+clear turquoise bag = [
+	 muted lime bag ( 1 )
+	 faded turquoise bag ( 2 )
+	 plaid lavender bag ( 4 )
+]
+
+drab gray bag = [
+]
+
+dotted orange bag = [
+	 dull bronze bag ( 2 )
+	 vibrant red bag ( 3 )
+	 dull gold bag ( 5 )
+	 shiny yellow bag ( 3 )
+]
+
+vibrant bronze bag = [
+	 vibrant aqua bag ( 1 )
+]
+
+muted indigo bag = [
+	 shiny gold bag ( 4 )
+	 clear teal bag ( 1 )
+	 light gray bag ( 4 )
+	 shiny orange bag ( 2 )
+]
+
+striped maroon bag = [
+	 shiny aqua bag ( 1 )
+	 vibrant magenta bag ( 3 )
+	 light maroon bag ( 5 )
+	 dull aqua bag ( 2 )
+]
+
+shiny purple bag = [
+	 drab coral bag ( 2 )
+	 pale blue bag ( 5 )
+]
+
+pale olive bag = [
+	 muted olive bag ( 5 )
+	 dim olive bag ( 4 )
+	 clear violet bag ( 5 )
+]
+
+mirrored orange bag = [
+	 dull bronze bag ( 3 )
+	 dull gold bag ( 5 )
+	 dim gray bag ( 4 )
+	 dotted green bag ( 1 )
+]
+
+dark chartreuse bag = [
+	 dull blue bag ( 3 )
+	 dim tan bag ( 1 )
+]
+
+dim tan bag = [
+]
+
+posh teal bag = [
+	 wavy red bag ( 4 )
+]
+
+pale turquoise bag = [
+	 dull green bag ( 3 )
+	 dim red bag ( 1 )
+]
+
+mirrored green bag = [
+]
+
+vibrant beige bag = [
+	 striped brown bag ( 5 )
+	 dull lime bag ( 5 )
+]
+
+muted lime bag = [
+	 dotted lavender bag ( 3 )
+	 faded turquoise bag ( 1 )
+	 plaid chartreuse bag ( 1 )
+]
+
+dotted green bag = [
+	 dim cyan bag ( 3 )
+	 faded violet bag ( 4 )
+]
+
+faded green bag = [
+	 striped green bag ( 4 )
+	 dotted blue bag ( 5 )
+	 striped beige bag ( 3 )
+]
+
+striped lime bag = [
+	 light blue bag ( 3 )
+	 drab fuchsia bag ( 4 )
+	 light aqua bag ( 5 )
+	 dim indigo bag ( 1 )
+]
+
+plaid brown bag = [
+	 mirrored brown bag ( 5 )
+	 mirrored lime bag ( 4 )
+	 clear red bag ( 1 )
+]
+
+plaid fuchsia bag = [
+	 posh blue bag ( 2 )
+]
+
+dotted beige bag = [
+	 shiny fuchsia bag ( 2 )
+	 faded cyan bag ( 3 )
+	 mirrored red bag ( 5 )
+	 drab turquoise bag ( 3 )
+]
+
+plaid magenta bag = [
+	 clear lavender bag ( 2 )
+	 clear teal bag ( 3 )
+	 vibrant gold bag ( 4 )
+]
+
+shiny lime bag = [
+	 muted yellow bag ( 5 )
+	 drab gray bag ( 1 )
+	 faded yellow bag ( 2 )
+	 pale magenta bag ( 1 )
+]
+
+dull silver bag = [
+	 posh black bag ( 4 )
+	 dark gray bag ( 3 )
+	 pale plum bag ( 3 )
+]
+
+plaid maroon bag = [
+	 shiny magenta bag ( 3 )
+	 faded tomato bag ( 3 )
+]
+
+drab purple bag = [
+	 bright cyan bag ( 3 )
+	 faded bronze bag ( 1 )
+	 light plum bag ( 3 )
+	 dull fuchsia bag ( 1 )
+]
+
+vibrant red bag = [
+	 faded white bag ( 4 )
+	 dim tan bag ( 5 )
+	 shiny lavender bag ( 4 )
+	 dim turquoise bag ( 1 )
+]
+
+clear olive bag = [
+	 bright plum bag ( 1 )
+]
+
+muted teal bag = [
+	 clear black bag ( 5 )
+	 light white bag ( 1 )
+	 posh crimson bag ( 4 )
+	 faded beige bag ( 4 )
+]
+
+vibrant gold bag = [
+	 dark brown bag ( 5 )
+]
+
+vibrant gray bag = [
+	 mirrored salmon bag ( 2 )
+	 dotted brown bag ( 3 )
+	 wavy maroon bag ( 3 )
+	 shiny maroon bag ( 4 )
+]
+
+drab plum bag = [
+	 bright lime bag ( 2 )
+]
+
+plaid lime bag = [
+	 dotted purple bag ( 3 )
+	 plaid blue bag ( 1 )
+	 bright silver bag ( 3 )
+	 vibrant chartreuse bag ( 1 )
+]
+
+posh tomato bag = [
+	 mirrored white bag ( 5 )
+	 shiny lavender bag ( 1 )
+]
+
+faded yellow bag = [
+	 posh brown bag ( 1 )
+	 light blue bag ( 2 )
+	 mirrored teal bag ( 4 )
+	 dull crimson bag ( 1 )
+]
+
+muted lavender bag = [
+	 drab coral bag ( 320 )
+	 dull gold bag ( 640 )
+	 posh crimson bag ( 640 )
+	 mirrored green bag ( 320 )
+]
+
+dark orange bag = [
+	 posh salmon bag ( 2 )
+	 clear bronze bag ( 1 )
+]
+
+dim beige bag = [
+	 muted lavender bag ( 2 )
+	 light blue bag ( 6 )
+]
+
+drab red bag = [
+	 mirrored maroon bag ( 2 )
+	 light coral bag ( 4 )
+]
+
+clear lime bag = [
+	 posh maroon bag ( 5 )
+	 muted coral bag ( 1 )
+	 wavy maroon bag ( 5 )
+	 muted orange bag ( 3 )
+]
+
+mirrored black bag = [
+	 posh black bag ( 3 )
+	 vibrant tan bag ( 4 )
+	 vibrant black bag ( 1 )
+	 posh orange bag ( 2 )
+]
+
+wavy orange bag = [
+	 dotted teal bag ( 5 )
+	 dull magenta bag ( 3 )
+	 clear chartreuse bag ( 4 )
+	 shiny violet bag ( 5 )
+]
+
+faded bronze bag = [
+	 dim gray bag ( 2 )
+	 muted gray bag ( 3 )
+]
+
+striped gray bag = [
+	 faded plum bag ( 3 )
+	 striped fuchsia bag ( 2 )
+	 dim gray bag ( 1 )
+]
+
+pale black bag = [
+	 vibrant green bag ( 5 )
+	 dark coral bag ( 3 )
+]
+
+muted orange bag = [
+	 drab gray bag ( 300 )
+	 dim turquoise bag ( 60 )
+]
+
+dotted black bag = [
+	 plaid olive bag ( 3 )
+	 posh plum bag ( 3 )
+	 wavy turquoise bag ( 3 )
+	 muted teal bag ( 5 )
+]
+
+pale gold bag = [
+	 wavy silver bag ( 2 )
+	 muted magenta bag ( 3 )
+]
+
+shiny yellow bag = [
+	 wavy red bag ( 4 )
+	 dotted blue bag ( 2 )
+]
+
+shiny green bag = [
+	 wavy blue bag ( 5 )
+	 bright lime bag ( 4 )
+]
+
+mirrored cyan bag = [
+	 faded plum bag ( 1 )
+	 dull purple bag ( 5 )
+]
+
+dark yellow bag = [
+	 vibrant maroon bag ( 3 )
+]
+
+faded tomato bag = [
+	 striped salmon bag ( 3 )
+	 bright lime bag ( 1 )
+	 vibrant magenta bag ( 4 )
+]
+
+light indigo bag = [
+	 clear black bag ( 3 )
+]
+
+dull violet bag = [
+	 posh tomato bag ( 2 )
+	 clear blue bag ( 2 )
+	 drab silver bag ( 2 )
+	 muted gray bag ( 4 )
+]
+
+shiny red bag = [
+	 dull indigo bag ( 4 )
+	 pale coral bag ( 4 )
+	 wavy blue bag ( 3 )
+]
+
+wavy maroon bag = [
+	 dotted gray bag ( 3 )
+	 faded indigo bag ( 3 )
+	 dim cyan bag ( 3 )
+]
+
+bright gray bag = [
+	 plaid tan bag ( 1 )
+	 dotted gray bag ( 2 )
+]
+
+mirrored turquoise bag = [
+	 vibrant lavender bag ( 3 )
+]
+
+striped brown bag = [
+	 bright white bag ( 4 )
+	 pale teal bag ( 1 )
+]
+
+plaid olive bag = [
+	 posh red bag ( 1 )
+	 pale crimson bag ( 1 )
+	 shiny tomato bag ( 5 )
+]
+
+dull black bag = [
+	 pale blue bag ( 1 )
+	 shiny green bag ( 2 )
+	 plaid plum bag ( 3 )
+	 faded turquoise bag ( 2 )
+]
+
+plaid red bag = [
+	 dim maroon bag ( 1 )
+	 faded crimson bag ( 4 )
+	 muted plum bag ( 2 )
+]
+
+dull indigo bag = [
+	 vibrant gold bag ( 5 )
+]
+
+dark lavender bag = [
+	 muted teal bag ( 5 )
+	 shiny bronze bag ( 5 )
+]
+
+dark olive bag = [
+	 faded tan bag ( 1 )
+	 dim beige bag ( 3 )
+	 dark chartreuse bag ( 4 )
+	 light yellow bag ( 5 )
+]
+
+dark salmon bag = [
+	 striped indigo bag ( 2 )
+	 wavy lavender bag ( 5 )
+	 dim fuchsia bag ( 1 )
+	 dim yellow bag ( 5 )
+]
+
+plaid yellow bag = [
+	 pale fuchsia bag ( 1 )
+	 mirrored purple bag ( 1 )
+	 faded purple bag ( 4 )
+]
+
+drab bronze bag = [
+	 dull teal bag ( 5 )
+	 plaid coral bag ( 3 )
+	 faded beige bag ( 2 )
+	 plaid aqua bag ( 4 )
+]
+
+bright lavender bag = [
+	 drab cyan bag ( 1 )
+]
+
+vibrant green bag = [
+	 posh brown bag ( 5 )
+	 light gray bag ( 3 )
+	 wavy blue bag ( 2 )
+]
+
+vibrant turquoise bag = [
+	 bright maroon bag ( 2 )
+]
+
+vibrant crimson bag = [
+	 posh maroon bag ( 5 )
+]
+
+posh violet bag = [
+	 dim silver bag ( 2 )
+]
+
+vibrant yellow bag = [
+	 posh lavender bag ( 2 )
+	 pale purple bag ( 1 )
+	 muted plum bag ( 5 )
+	 faded chartreuse bag ( 3 )
+]
+
+dim indigo bag = [
+	 muted maroon bag ( 5 )
+]
+
+clear lavender bag = [
+	 dark red bag ( 1 )
+	 wavy blue bag ( 1 )
+	 plaid silver bag ( 2 )
+]
+
+bright aqua bag = [
+	 bright olive bag ( 5 )
+	 drab magenta bag ( 2 )
+	 dim teal bag ( 2 )
+]
+
+posh chartreuse bag = [
+	 pale brown bag ( 3 )
+]
+
+muted blue bag = [
+	 dark gray bag ( 3 )
+	 drab blue bag ( 3 )
+	 dark gold bag ( 4 )
+	 bright tomato bag ( 5 )
+]
+
+dim aqua bag = [
+	 faded plum bag ( 3 )
+	 dim red bag ( 2 )
+]
+
+muted aqua bag = [
+	 muted tan bag ( 4 )
+]
+
+dull tan bag = [
+	 mirrored green bag ( 2 )
+	 muted yellow bag ( 5 )
+	 faded turquoise bag ( 4 )
+]
+
+striped yellow bag = [
+	 mirrored red bag ( 5 )
+	 light tan bag ( 3 )
+	 vibrant teal bag ( 4 )
+]
+
+wavy yellow bag = [
+	 posh plum bag ( 3 )
+	 dotted chartreuse bag ( 2 )
+	 dotted magenta bag ( 4 )
+]
+
+dotted plum bag = [
+	 shiny tomato bag ( 4 )
+	 mirrored olive bag ( 1 )
+	 posh turquoise bag ( 2 )
+	 faded bronze bag ( 1 )
+]
+
+mirrored crimson bag = [
+	 dull gold bag ( 2 )
+	 wavy blue bag ( 5 )
+	 bright plum bag ( 2 )
+	 shiny yellow bag ( 4 )
+]
+
+faded crimson bag = [
+	 muted teal bag ( 1 )
+]
+
+muted crimson bag = [
+	 dotted orange bag ( 3 )
+	 bright orange bag ( 4 )
+	 drab maroon bag ( 3 )
+	 vibrant turquoise bag ( 2 )
+]
+
+clear maroon bag = [
+	 mirrored white bag ( 2 )
+	 dull plum bag ( 5 )
+	 dull beige bag ( 3 )
+]
+
+dotted yellow bag = [
+	 drab olive bag ( 1 )
+	 pale crimson bag ( 4 )
+	 drab gray bag ( 4 )
+	 striped fuchsia bag ( 2 )
+]
+
+mirrored lavender bag = [
+	 drab coral bag ( 3 )
+	 dim indigo bag ( 3 )
+	 dim gold bag ( 4 )
+	 wavy salmon bag ( 5 )
+]
+
+shiny salmon bag = [
+	 mirrored aqua bag ( 2 )
+	 mirrored tan bag ( 3 )
+	 wavy blue bag ( 1 )
+]
+
+shiny silver bag = [
+	 dotted brown bag ( 3 )
+	 bright tomato bag ( 3 )
+	 posh tomato bag ( 2 )
+]
+
+dark indigo bag = [
+	 light beige bag ( 3 )
+	 wavy white bag ( 3 )
+	 light black bag ( 2 )
+	 striped silver bag ( 4 )
+]
+
+drab turquoise bag = [
+	 pale salmon bag ( 3 )
+	 shiny violet bag ( 1 )
+	 shiny orange bag ( 1 )
+	 mirrored olive bag ( 1 )
+]
+
+dull aqua bag = [
+	 light blue bag ( 1 )
+	 vibrant bronze bag ( 1 )
+	 posh brown bag ( 1 )
+]
+
+dim coral bag = [
+	 faded teal bag ( 3 )
+	 faded indigo bag ( 3 )
+]
+
+vibrant white bag = [
+	 drab gray bag ( 3 )
+	 faded blue bag ( 4 )
+	 clear white bag ( 2 )
+	 dull tan bag ( 1 )
+]
+
+bright violet bag = [
+	 faded blue bag ( 3 )
+]
+
+map[clear tan bag:true dark maroon bag:true dim beige bag:true dim cyan bag:true dim tan bag:true dim turquoise bag:true dotted lavender bag:true drab coral bag:true drab gray bag:true drab orange bag:true dull crimson bag:true dull gold bag:true faded blue bag:true light blue bag:true mirrored green bag:true mirrored white bag:true muted lavender bag:true muted orange bag:true posh crimson bag:true posh red bag:true shiny gold bag:true shiny tomato bag:true vibrant aqua bag:true]
+160926
