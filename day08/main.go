@@ -103,17 +103,16 @@ func debug(i []instruction, pc int, cache map[int]bool, acc int) bool {
 	}
 	ins := i[pc]
 	if ins.oper == "acc" {
-		cache[pc] = true
 		if win := debug(i, pc+1, cache, acc+ins.arg); !win {
-			cache[pc] = false
+			cache[pc] = win
 			return false
 		}
 
 	} else if ins.oper == "nop" {
-		cache[pc] = true
 		if win := debug(i, pc+1, cache, acc); !win {
+			cache[pc] = win
 			if win = debug(i, pc+ins.arg, cache, acc); !win {
-				cache[pc] = false
+				cache[pc] = win
 				return false
 			}
 		}
@@ -121,12 +120,13 @@ func debug(i []instruction, pc int, cache map[int]bool, acc int) bool {
 		cache[pc] = true
 		if win := debug(i, pc+ins.arg, cache, acc); !win {
 			if win = debug(i, pc+1, cache, acc); !win {
-				cache[pc] = false
+				cache[pc] = win
 				return false
 			}
 		}
-
 	}
+
+	cache[pc] = true
 
 	return true
 
